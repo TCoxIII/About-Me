@@ -131,7 +131,7 @@ nav {
 }
 
 .hero-title {
-  font-size: 1rem;
+  font-size: 0.82rem;
   color: var(--muted);
   margin-bottom: 1.5rem;
   white-space: nowrap;
