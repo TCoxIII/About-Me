@@ -134,6 +134,9 @@ nav {
   font-size: 1rem;
   color: var(--muted);
   margin-bottom: 1.5rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .hero-summary {
